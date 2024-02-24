@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "mm-test1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "ethers": "^6.11.1"
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
